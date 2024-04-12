@@ -4,7 +4,7 @@ Before running the Recipe App, please ensure that you have the following  instal
 -Visual Studio 2022 installed. 
 Firstly,the message is displayed:” Welcome to the Recipe App!” 
 
-https://github.com/PPrecious/PROG6221-PART1/blob/main/README.md
+
 
 To run the Recipe App, follow these steps: 
 1. Clone this repository to your local machine,using GitHub or zip folder downloaded. 
